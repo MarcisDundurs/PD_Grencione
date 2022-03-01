@@ -3,7 +3,7 @@
 #1 Burke Elza
 
 #2 Dundurs Mārcis
-
+print(cos(radians(60)+fmod(15,2)))
 #3 Dūrēja Annemarija
 
 #4 Dzērve Artūrs
